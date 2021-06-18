@@ -1,7 +1,7 @@
 #Script to Calculate Time Difference between two sample points
 #Takes a input csv file calculates the time difference and outputs data to a csv file
 
-#Usage - run on commandline - python timediff.py inputfilename outputfilename
+#Usage - run on commandline - python timediff.py inputfilename outputfilename test
 
 import argparse
 import csv
